@@ -20,7 +20,7 @@ body{
       list-style-type: none;
   }
 .container{ 
-    max-width: 1440px;
+width: 1440px;
     margin: 15px auto 0px auto;
 }
 nav, .our_service_section, .specialization_section,
@@ -796,7 +796,7 @@ main{
  .search_open_wrapper {
     background: #774989;
     position: absolute;
-    top: 90px;
+    top: 100px;
     width: 100%;
     display: none;
     z-index: 10;
